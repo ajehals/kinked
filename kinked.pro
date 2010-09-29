@@ -24,4 +24,5 @@ HEADERS += \
 OTHER_FILES += \
     README \
     COPYING \
-    TODO
+    TODO \
+    kinked.man
